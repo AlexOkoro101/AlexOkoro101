@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Alex Emeka Okoro
 - 👀 I’m interested in Full Stack Development
-- 🌱 I’m currently learning React Native
-- 💞️ I’m looking to collaborate on React Js, Vue Js and React Native Projects
+- 🌱 I’m currently learning Solidity
+- 💞️ I’m looking to collaborate on React Js, Vue Js, React Native and BlockChain Development Projects
 - 📫 How to reach me ... +234 7014575103, alexokoro342@gmail.com
 
 <!---
